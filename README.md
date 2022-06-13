@@ -10,7 +10,7 @@
 
 <!-- - 🚀 My personal page [https://cengiz.rocks](https://cengiz.rocks) -->
 
-- 💬 Ask me about **JavaScript, CSS and React.js.**
+- 💬 Ask me about **JavaScript.**
 
 - 📫 How to reach me **furkankutay06@gmail.com**
  </p>
